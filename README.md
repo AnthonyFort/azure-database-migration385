@@ -2,7 +2,7 @@
 
 ## Introduction
 
-In this project, I migrate a database to Azure SQL Database. 
+In this project, I migrate a database to an Azure SQL Database. 
 
 This project is an exercise in data backup, restoration, automated scheduling, and disaster recovery.
 
